@@ -1,6 +1,24 @@
 /* ========== Google Fonts =========== */
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap");
 
+/* ========== dark mode start =========== */
+
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+/* ========== dark mode end =========== */
+
+
+
 /* ========== CSS Variables =========== */
 :root {
   --primary-color: #6975e3;
