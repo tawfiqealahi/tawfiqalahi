@@ -1,3 +1,12 @@
+/* ========== dark mode start =========== */
+
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
+
+/* ========== dark mode end =========== */
+
 /* =========== Show Navbar =========== */
 const navbar = document.querySelector(".nav-list");
 const hamburger = document.querySelector(".hamburger");
